@@ -4,7 +4,7 @@ Python is **not** required to run this tool, unless you choose to download alttu
 
 # Instructions
 *For most users*
-1. [Download AltTube-dl.zip](https://github.com/DareDeveloperbruh/AltTube-dl/releases/download/v3.1/alttube-dl.zip)
+1. [Download AltTube-dl.zip](https://github.com/DareDeveloperbruh/AltTube-dl/raw/main/build/exe.win-amd64-3.9/alttube-dl.exe)
 2. [Download ffmpeg](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.7z)
 3. Make a folder on your Desktop called "AltTube-dl" and drag the contents of AltTube-dl.zip into it.
 4. Double click the ffmpeg ZIP file, click the "ffmpeg-4.4-essentials_build" folder, then click the "bin" folder and drag "ffmpeg.exe" into the AltTube-dl folder on your Desktop.
