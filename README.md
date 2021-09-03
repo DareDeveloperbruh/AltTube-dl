@@ -60,5 +60,5 @@ Some users may feel more comfortable using an open, easily edited script instead
 Dependencies  
 Requests  
 ffmpeg-python  
-colorama
+colorama  
 tqdm
